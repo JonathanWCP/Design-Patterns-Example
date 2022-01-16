@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFLpum2B7eAPQcO7WjZ+drOe0rd1aonffEwUBCIn6A49u1r79bzNKfIRUVXeOa4/PdtlhkQfREjSy45VyKbnNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\Design-Patterns-Example\\DesignPattern\\Command\\Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joni_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

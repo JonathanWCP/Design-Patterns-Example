@@ -1,0 +1,16 @@
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.exe
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.deps.json
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.dll
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\ref\Command.dll
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\bin\Debug\net5.0\Command.pdb
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.csproj.AssemblyReference.cache
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.dll
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\ref\Command.dll
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.pdb
+C:\Repo\Design-Patterns-Example\DesignPattern\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
